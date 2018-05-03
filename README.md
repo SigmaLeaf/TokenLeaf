@@ -15,6 +15,8 @@ pip install flask
 ### Python
 ```
 python src/server.py
+
+open browser at localhost:5000
 ```
 
 
